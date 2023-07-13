@@ -1,6 +1,6 @@
 ## Hello, Beautiful People! :wave:
 
-Welcome to Kariuki's And Company on GitHub where we love to code.
+Welcome to Kariuki's And Company on GitHub.
 
 * :books: Students @ KCA University 
 * :computer:Pursuing Software Engineering
